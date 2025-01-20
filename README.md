@@ -1,0 +1,1 @@
+# scamify-phishing-detector
